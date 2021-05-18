@@ -1,4 +1,4 @@
-# AKKA - textual-based WhatsApp
+# Course Project - textual-based WhatsApp using AKKA
 
 ## Project Information
 
